@@ -1,2 +1,2 @@
 # PS4CS
-Google Collab notes
+This is a repo for the PS4CS Project, using Google Colab
